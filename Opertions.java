@@ -1,3 +1,4 @@
+package tast;
 import java.util.Scanner;
 public class Opertions {
     
